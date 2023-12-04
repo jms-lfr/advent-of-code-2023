@@ -4,6 +4,7 @@
 !Makefile
 # ^^^ ignore generated files without file extensions (e.g. binaries)
 .vscode
+input.txt
 
 # Prerequisites
 *.d
