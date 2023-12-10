@@ -5,6 +5,7 @@
 # ^^^ ignore generated files without file extensions (e.g. binaries)
 .vscode
 input.txt
+test.txt
 
 # Prerequisites
 *.d
